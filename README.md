@@ -7,12 +7,12 @@
 
 <p align="center"><img
     src="https://komarev.com/ghpvc/?username=jungheil&abbreviated=true&color=006795&style=for-the-badge" /></p>
-
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=jungheil&row=2&column=3&theme=oldie" />
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=jungheil&row=2&column=3&theme=oldie"
+    height="250" />
 </p>
 
 <p align="center"><img align="center"
-    src="https://streak-stats.demolab.com/?user=jungheil&count_private=true&show_icons=true" /></p>
+    src="https://streak-stats.demolab.com/?user=jungheil&count_private=true&show_icons=true" height="150" /></p>
 
 ### Languages
 
@@ -74,7 +74,6 @@
       alt="Premiere Pro" height="50" /></a>
 </div>
 
-
 ### About Me
 
 - 📫 How to reach me **<jungheilai@gmail.com>**
@@ -82,18 +81,6 @@
 ### Stats
 
 <div align="center">
-  <table frame=void rules=none>
-    <tr>
-      <td valign="center">
-        <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=jungheil&show_icons=true" />
-        </div>
-      </td>
-      <td valign="center">
-        <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungheil&layout=compact" />
-          <div />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=jungheil&show_icons=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungheil&layout=compact" height="150" />
 </div>
